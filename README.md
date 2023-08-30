@@ -38,9 +38,10 @@ Este projeto é um website de vendas de pizza que proporciona uma experiência i
 7. Continue personalizando seu pedido ou finalize a compra.
 
 ## Visualização Responsiva
+O PizzaVenda foi desenvolvido com responsividade em mente. Ele foi testado e otimizado para funcionar em dispositivos de diferentes tamanhos, incluindo smartphones, tablets e desktops.
 ![image](https://github.com/aureliodeboa/Projeto-Pizzas/assets/53971991/c2854939-66a1-4d47-bc91-52d17fcddac4)
 
-O PizzaVenda foi desenvolvido com responsividade em mente. Ele foi testado e otimizado para funcionar em dispositivos de diferentes tamanhos, incluindo smartphones, tablets e desktops.
+
 
 
 ## Contribuição
