@@ -1,9 +1,9 @@
 # Pizza- Projeto de Frontend de Vendas de Pizza
 
--Desktop
+
 ![image](https://github.com/aureliodeboa/Projeto-Pizzas/assets/53971991/9d4a9923-9890-4fce-95a9-410c20dd9e04)
--Mobile
-![image](https://github.com/aureliodeboa/Projeto-Pizzas/assets/53971991/c2854939-66a1-4d47-bc91-52d17fcddac4)
+
+
 
 Este projeto foi desenvolvido como parte do curso da B7 Web e tem como objetivo demonstrar habilidades de desenvolvimento frontend utilizando HTML, CSS e JavaScript para criar uma aplicação completa de vendas de pizza, incluindo carrinho de compras, diferentes tamanhos de pizzas, vários sabores e cálculo de valor com desconto.
 
@@ -38,7 +38,7 @@ Este projeto é um website de vendas de pizza que proporciona uma experiência i
 7. Continue personalizando seu pedido ou finalize a compra.
 
 ## Visualização Responsiva
-
+![image](https://github.com/aureliodeboa/Projeto-Pizzas/assets/53971991/c2854939-66a1-4d47-bc91-52d17fcddac4)
 O PizzaVenda foi desenvolvido com responsividade em mente. Ele foi testado e otimizado para funcionar em dispositivos de diferentes tamanhos, incluindo smartphones, tablets e desktops.
 
 
